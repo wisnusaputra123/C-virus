@@ -21,24 +21,24 @@ now = strftime("%T")
 bulan = strftime("%B")
 tahun = strftime("%Y")
 #--- Def menu ---#
-def banner():
-    os.system('printf "\t\t_  _ ____ _    _ ____ _ ____ _  _ ____\n\t\t|\/| |__| |    | |    | |  | |  | [__ \n\t\t|  | |  | |___ | |___ | |__| |__| ___]\n\n" | lolcat')     
-    #print(""+R+"I "+C+"████╗ ████║██╔══██╗██║     ██║██╔════╝██║██╔═══██╗██║   ██║██╔════╝ "+R+"I")     
-    #print(""+R+"R "+C+"██╔████╔██║███████║██║     ██║██║     ██║██║   ██║██║   ██║███████╗ "+R+"R")     
-#    print(""+R+"U "+C+"██║╚██╔╝██║██╔══██║██║     ██║██║     ██║██║   ██║██║   ██║╚════██║ "+R+"U")    
-#    print(""+R+"S "+C+"██║ ╚═╝ ██║██║  ██║███████╗██║╚██████╗██║╚██████╔╝╚██████╔╝███████║ "+R+"S")    
-#    print(""+R+"! "+C+"╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝╚═╝ ╚═════╝  ╚═════╝ ╚══════╝ "+R+"!")    
+
+    
+
+
+
+
+
 def about():
 	print("\t\t"+B+"<<<<<<| "+R+"About Tool "+B+"|>>>>>>\n")
 	print("\t"+G+"Made"+B+" with full"+R+" <3"+B+"\t\t")
-	print("\tEditing By  : MR.ALF\t\t\t")
-	print("\tNo wa : 08994440131\t\t\t")
-	print("\tTeam    : "+R+"Team Cyber Noobs")
-	print("\t"+B+"Thanks to: Allah")
-	print("\tCreate By : MR.VIRUS\t\t\t")
-	print("\tAdmin team : ʝʀ•ӄɨʍօƈɦɨt,\t\t")
-	print("\tMember Team : Oxone lee,MR.ANR,L.K.A DEVIA\t")
-	print("\tAnggota Team : MR.ANONYMOUS,MR.Bat~Clay\t\t\t")
+	print("\tCreate By  : Wisnusaputra123\t\t\t")
+	print("\tInstagram : wisnu_as123\t\t\t")
+	print("\tTeam    : "+R+"BCT•BERMUDA-CYBER-TEAM")
+	print("\t"+B+"Warning: Gunakan Dengan Bijak")
+	print("\tNama Script : C-virus\t\t\t")
+	print("\tAdmin team : Wisnu saputra\t\t")
+	print("\tBekerja Sama Dengan : Anonymous Indonesia\t")
+	print("\tUsing : Enjoy Script\t\t\t")
 	
 	menu()
 	
